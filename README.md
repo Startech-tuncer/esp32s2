@@ -1,2 +1,2 @@
 # esp32s2
-esp32s2 espi ILI9163 ve diğerleri çok hızlı bişekilde çalışıyor teşekürler bodmer. Yardıma ihtiyacı olan yazsın.
+esp32s2 espi ILI9163 and others are working very fast thanks bodmer. Write if you need help.
